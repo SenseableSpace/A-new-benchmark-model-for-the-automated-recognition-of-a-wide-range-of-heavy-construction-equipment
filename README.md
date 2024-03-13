@@ -17,7 +17,7 @@ Construction site; Heavy equipment; Benchmark model; Object detection and classi
 ### Framework and Dataset
 **Figure 1.** Research framework
 
-![Figure1](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/12262482-c487-496e-970d-bd673ee9dbe2) <br><br>
+![Figure1]() <br><br>
 
 **Figure 2.** Representative examples of training and test dataset
 
