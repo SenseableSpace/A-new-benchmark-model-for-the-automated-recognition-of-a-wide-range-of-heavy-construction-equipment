@@ -36,9 +36,9 @@ Construction site; Heavy equipment; Benchmark model; Object detection and classi
 Some or all of the data or code that support the findings of this study are available from the corresponding author upon reasonable request. <br><br>
 
 ### Download link
-| Category                              | Total   | Link                                                                                 | Release Date |
-| ------------------------------------- | ------- |  ----------------------------------------------------------------------------------  | ------------ |
-| Training dataset-images               | 4000    | https://drive.google.com/file/d/1oR4iLT82qBX_xiZD8yXkVHOjpNZ51gQr/view?usp=sharing   | 11 Mar 2024  |
-| Training dataset-labels               | 4000    | https://drive.google.com/file/d/1Z-TaXi1k6Mr5hyfd8eiyuY52kZWPkHOS/view?usp=sharing   | 11 Mar 2024  |
-| Test dataset-images                   | 576     | https://drive.google.com/file/d/1y5yLGsyNBXmoyT1IUd4-qJqo6mXeTAoj/view?usp=sharing   | 11 Mar 2024  |
-| Test dataset-labels                   | 576     | https://drive.google.com/file/d/1gPlacSloHKc422tVJdQgEpHhs5W7iT8k/view?usp=sharing   | 11 Mar 2024  |
+| Category                                  | Total   | Link                                                                                 | Release Date |
+| ----------------------------------------- | ------- |  ----------------------------------------------------------------------------------  | ------------ |
+| Training dataset-images                   | 4000    | https://drive.google.com/file/d/1oR4iLT82qBX_xiZD8yXkVHOjpNZ51gQr/view?usp=sharing   | 11 Mar 2024  |
+| Training dataset-labels                   | 4000    | https://drive.google.com/file/d/1Z-TaXi1k6Mr5hyfd8eiyuY52kZWPkHOS/view?usp=sharing   | 11 Mar 2024  |
+| Test dataset-images                       | 576     | https://drive.google.com/file/d/1y5yLGsyNBXmoyT1IUd4-qJqo6mXeTAoj/view?usp=sharing   | 11 Mar 2024  |
+| Test dataset-labels                       | 576     | https://drive.google.com/file/d/1gPlacSloHKc422tVJdQgEpHhs5W7iT8k/view?usp=sharing   | 11 Mar 2024  |
