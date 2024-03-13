@@ -1,5 +1,5 @@
 ### Official Python Implementation
-This work was conducted by Yejin Shin, Yujin Choi, Jaeseung Won, Taehoon Hong, and Choongwan Koo (Corresponding Author) | [Paper](https://doi.org/10.1061/JMENEA.MEENG-5630)
+This work was conducted by Yejin Shin, Yujin Choi, Jaeseung Won, Taehoon Hong, and `Choongwan Koo (Corresponding Author)` | [Paper](https://doi.org/10.1061/JMENEA.MEENG-5630)
 
 Affiliation: Construction Engineering & Management Lab, Incheon National University.
 
