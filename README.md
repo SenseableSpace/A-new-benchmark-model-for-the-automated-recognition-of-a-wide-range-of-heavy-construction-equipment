@@ -38,5 +38,5 @@ Some or all of the data or code that support the findings of this study are avai
 ### Download link
 | Category                                  | Total   | Link                                                                                 | Release Date |
 | ----------------------------------------- | ------- |  ----------------------------------------------------------------------------------  | ------------ |
-| Training dataset-images                   | 9741    | https://drive.google.com/file/d/13YY7-qHmKH0WhELUWRtGko8z9op-YEW4/view?usp=sharing   | 13 Mar 2024  |
+| 'Training dataset-images'                   | 9741    | https://drive.google.com/file/d/13YY7-qHmKH0WhELUWRtGko8z9op-YEW4/view?usp=sharing   | 13 Mar 2024  |
 | Training dataset-labels                   | 9741    | https://drive.google.com/file/d/1KfihMAkBXi-9lNjTxy9Gh7tuf-XGnJ5a/view?usp=sharing   | 13 Mar 2024  |
