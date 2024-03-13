@@ -17,20 +17,15 @@ Construction site; Heavy equipment; Benchmark model; Object detection and classi
 ### Framework and Dataset
 **Figure 1.** Research framework
 
-![Figure1]() <br><br>
-
-**Figure 2.** Representative examples of training and test dataset
-
-![Figure2](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/c47012f3-c52a-4ef2-b9fc-9484db13828a) <br><br>
+![Figure1](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/4b78e3cf-dfc8-4eb6-9a93-064f4e16c4ea) <br><br>
 
 ### Results
-**Figure 3.** Inference results - confidence scores of small-sized tools, ‘Hammer’
 
-![Figure3](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/4621b66d-aa52-486d-a781-8fca9f5ef7b3) <br><br>
+**Figure 2.** Inference with image dataset - Confidence score by equipment class (YOLOv5s, YOLOv5m, and YOLOv5l models)
 
-**Figure 4.** Inference results - confidence scores of small-sized tools, ‘Tacker'
-
-![Figure4](https://github.com/SenseableSpace/Utilizing-synthetic-images-to-enhance-the-automated-recognition-of-small-sized-construction-tools/assets/162809473/24685b01-dfef-4701-84bf-000ed1bee39d) <br><br>
+![Figure2](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/2cf015ca-67a0-4916-aef1-2e6132f06239) <br><br>
+![Figure3](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/0bb2022f-38e5-48dc-b178-222e078f3231) <br><br>
+![Figure4](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/ae1b9192-dfa6-4a48-a1e9-2e4d460a7dad) <br><br>
 
 ### Code Definition
 | Category                 | Description                                                                           |
