@@ -14,7 +14,7 @@ The integration of computer vision technology into construction sites poses vari
 ### Keywords
 Construction site; Heavy equipment; Benchmark model; Object detection and classification; Computer vision; Field applicability <br><br>
 
-### Framework and Dataset
+### Research Framework
 **Figure 1.** Research framework
 
 ![Figure1](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/4b78e3cf-dfc8-4eb6-9a93-064f4e16c4ea) <br><br>
@@ -24,14 +24,13 @@ Construction site; Heavy equipment; Benchmark model; Object detection and classi
 **Figure 2.** Inference with image dataset - Confidence score by equipment class (YOLOv5s, YOLOv5m, and YOLOv5l models)
 
 ![Figure2-1](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/364f5181-c688-4a52-bb6b-99ededc990e6)
-![Figure2-2](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/fabdf7c6-cfa1-4140-b7d9-4b8b17bcc431) <br>
+![Figure2-2](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/fabdf7c6-cfa1-4140-b7d9-4b8b17bcc431)
 ![Figure2-3](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/90db217c-715e-4d72-a044-9a18ccd6fe0d) <br><br>
 
 ### Code Definition
 | Category                 | Description                                                                           |
 | ------------------------ | --------------------------------------------------                                    |
-| `ScreenshotCapture.cs`   | This code has been used to automatically generate a group of synthetic images by capturing the screen while incrementally changing the viewing angles of a 3D object's x and y axes from 0° to 360° by 15° increments. |
-| `YOLOv8_open.ipynb`      | This code has been used to develop the proposed vision-based classifiers (i.e., 'Real-4000,' 'Hybrid-4000,' and 'Hybrid-8000') for the automated recognition of small-sized construction tools. |
+| `YOLOv5_open.ipynb`      | This code has been used to develop the proposed vision-based classifiers for the automated recognition of a wide range of heavy construction equipment. |
 
 ### Data Availability Statements
 Some or all of the data or code that support the findings of this study are available from the corresponding author upon reasonable request. <br><br>
@@ -39,11 +38,7 @@ Some or all of the data or code that support the findings of this study are avai
 ### Download link
 | Category                              | Total   | Link                                                                                 | Release Date |
 | ------------------------------------- | ------- |  ----------------------------------------------------------------------------------  | ------------ |
-| Training dataset-[Real-4000]-images   | 4000    | https://drive.google.com/file/d/1oR4iLT82qBX_xiZD8yXkVHOjpNZ51gQr/view?usp=sharing   | 11 Mar 2024  |
-| Training dataset-[Real-4000]-labels   | 4000    | https://drive.google.com/file/d/1Z-TaXi1k6Mr5hyfd8eiyuY52kZWPkHOS/view?usp=sharing   | 11 Mar 2024  |
-| Training dataset-[Hybrid-4000]-images | 4000    | https://drive.google.com/file/d/1hwVtejkUj0JpTiv-q2jjtW3ZzgIdFl-L/view?usp=sharing   | 11 Mar 2024  |
-| Training dataset-[Hybrid-4000]-labels | 4000    | https://drive.google.com/file/d/1hwVtejkUj0JpTiv-q2jjtW3ZzgIdFl-L/view?usp=sharing   | 11 Mar 2024  |
-| Training dataset-[Hybrid-8000]-images | 8000    | https://drive.google.com/file/d/1hwVtejkUj0JpTiv-q2jjtW3ZzgIdFl-L/view?usp=sharing   | 11 Mar 2024  |
-| Training dataset-[Hybrid-8000]-labels | 8000    | https://drive.google.com/file/d/10Wl94qQ8DciSnBAyVLlLu1ZQdqOi4wCq/view?usp=sharing   | 11 Mar 2024  |
+| Training dataset-images               | 4000    | https://drive.google.com/file/d/1oR4iLT82qBX_xiZD8yXkVHOjpNZ51gQr/view?usp=sharing   | 11 Mar 2024  |
+| Training dataset-labels               | 4000    | https://drive.google.com/file/d/1Z-TaXi1k6Mr5hyfd8eiyuY52kZWPkHOS/view?usp=sharing   | 11 Mar 2024  |
 | Test dataset-images                   | 576     | https://drive.google.com/file/d/1y5yLGsyNBXmoyT1IUd4-qJqo6mXeTAoj/view?usp=sharing   | 11 Mar 2024  |
 | Test dataset-labels                   | 576     | https://drive.google.com/file/d/1gPlacSloHKc422tVJdQgEpHhs5W7iT8k/view?usp=sharing   | 11 Mar 2024  |
