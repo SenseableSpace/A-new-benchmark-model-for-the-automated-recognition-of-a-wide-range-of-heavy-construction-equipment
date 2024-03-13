@@ -23,9 +23,9 @@ Construction site; Heavy equipment; Benchmark model; Object detection and classi
 
 **Figure 2.** Inference with image dataset - Confidence score by equipment class (YOLOv5s, YOLOv5m, and YOLOv5l models)
 
-![Figure2](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/2cf015ca-67a0-4916-aef1-2e6132f06239) <br><br>
-![Figure3](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/0bb2022f-38e5-48dc-b178-222e078f3231) <br><br>
-![Figure4](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/ae1b9192-dfa6-4a48-a1e9-2e4d460a7dad) <br><br>
+![Figure2-1](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/364f5181-c688-4a52-bb6b-99ededc990e6)
+![Figure2-2](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/fabdf7c6-cfa1-4140-b7d9-4b8b17bcc431) <br>
+![Figure2-3](https://github.com/SenseableSpace/A-new-benchmark-model-for-the-automated-recognition-of-a-wide-range-of-heavy-construction-equipment/assets/162809473/90db217c-715e-4d72-a044-9a18ccd6fe0d) <br><br>
 
 ### Code Definition
 | Category                 | Description                                                                           |
