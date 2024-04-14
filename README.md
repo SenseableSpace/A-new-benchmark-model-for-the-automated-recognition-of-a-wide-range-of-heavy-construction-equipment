@@ -4,7 +4,7 @@ This work was conducted by Yejin Shin, Yujin Choi, Jaeseung Won, Taehoon Hong, a
 Affiliation: Construction Engineering & Management Lab, Incheon National University.
 
 ### Cite This:
-Shin, Y., Choi, Y., Won, J., Hong, T., and `Koo, C. (Corresponding Author)` (2024/03). "A new benchmark model for the automated detection and classification of a wide range of heavy construction equipment." Journal of Management in Engineering, 40(2), 04023069, https://doi.org/10.1061/JMENEA.MEENG-5630. <br><br>
+Shin, Y., Choi, Y., Won, J., Hong, T., and `Koo, C.` (2024). "A new benchmark model for the automated detection and classification of a wide range of heavy construction equipment." Journal of Management in Engineering, 40(2), 04023069, https://doi.org/10.1061/JMENEA.MEENG-5630. <br><br>
 
 # A new benchmark model for the automated recognition of a wide range of heavy construction equipment
 
