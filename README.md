@@ -32,12 +32,3 @@ Construction site; Heavy equipment; Benchmark model; Object detection and classi
 | ------------------------ | --------------------------------------------------                                    |
 | `WebCrawling.ipynb`      | This code has been used to automatically collect a group of authentic images for a wide range of heavy construction equipment from google website. |
 | `YOLOv5_open.ipynb`      | This code has been used to develop the proposed vision-based classifiers for the automated recognition of a wide range of heavy construction equipment. |
-
-### Data Availability Statements
-Some or all of the data or code that support the findings of this study are available from the corresponding author upon reasonable request. [Request Form](https://drive.google.com/file/d/1-k_TLb0vBlKnPMjSERYLwa27JwdXbZDf/view?usp=sharing) (Please fill out the request form and send it to the the corresponding author's email: senseablespace@gmail.com)  <br><br>
-
-### Download link
-| Category                                    | Total    | Link                                                                                 | Release Date |
-| ------------------------------------------- | -------- |  ----------------------------------------------------------------------------------  | ------------ |
-| `[2024-03-JME]_Training dataset-images`                   | 9,741    | https://drive.google.com/file/d/1dpeFYlt6aEr9-Eno9zkoPWhiACPmk89Y/view?usp=sharing   | 13 Apr 2024  |
-| `[2024-03-JME]_Training dataset-labels`                   | 9,741    | https://drive.google.com/file/d/1lD4IOrfMlZpbv2it9ZcrklLBiS_ThQc6/view?usp=sharing   | 13 Apr 2024  |
