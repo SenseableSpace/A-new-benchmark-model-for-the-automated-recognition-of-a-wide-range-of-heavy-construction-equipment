@@ -30,6 +30,7 @@ Construction site; Heavy equipment; Benchmark model; Object detection and classi
 ### Code Definition
 | Category                 | Description                                                                           |
 | ------------------------ | --------------------------------------------------                                    |
+| `WebCrawling.ipynb`      | This code has been used to automatically collect a group of authentic images for a wide range of heavy construction equipment from google website. |
 | `YOLOv5_open.ipynb`      | This code has been used to develop the proposed vision-based classifiers for the automated recognition of a wide range of heavy construction equipment. |
 
 ### Data Availability Statements
